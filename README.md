@@ -15,7 +15,7 @@ This project is driven using [Maven][mvn].
 [mvn]: https://maven.apache.org/ (Maven)
 
 ### Run locally
-
+ 
 You can run the service locally using the following from the command:
 
 ```
