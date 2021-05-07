@@ -1,4 +1,4 @@
-FROM openjdk:7
+FROM openjdk:7@sha256:75a05dbcd254fdde1a284c5cc47a8f7d5387cd517cbf9e66d50d45da1c695022
 
 LABEL maintainer="Atomist <docker@atomist.com>"
 
