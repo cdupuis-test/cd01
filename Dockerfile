@@ -17,3 +17,4 @@ CMD ["-jar", "cd01.jar"]
 ENTRYPOINT ["dumb-init", "java", "-XX:+UnlockExperimentalVMOptions", "-XX:+UseCGroupMemoryLimitForHeap", "-Xmx256m", "-Djava.security.egd=file:/dev/urandom"]
 
 COPY target/cd01.jar cd01.jar
+ 
